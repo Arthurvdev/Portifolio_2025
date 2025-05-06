@@ -431,11 +431,11 @@ body{
   --bg: #ffffff00;
   --hover-bg: #9741c9;
   --hover-text: #9741c9;
-  width: 22ch;
-  height: 30ch;
+  width: 25ch;
+  height: 38ch;
   text-align: center;
   background: var(--bg);
-  padding: 1.5em;
+  padding: 1.2em;
   padding-block: 1.8em;
   border-radius: 5px;
   position: relative;
